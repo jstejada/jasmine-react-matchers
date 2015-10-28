@@ -1,6 +1,6 @@
 {
   "name": "jasmine-react-matchers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom matchers to test React Elements",
   "main": "dist/jasmine-react-matchers.js",
   "scripts": {
