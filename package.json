@@ -2,7 +2,7 @@
   "name": "jasmine-react-matchers",
   "version": "1.0.1",
   "description": "Custom matchers to test React Elements",
-  "main": "dist/jasmine-react-matchers.js",
+  "main": "dist/ReactMatchers.js",
   "scripts": {
     "dist": "webpack",
     "test": "karma start karma.conf.js"
