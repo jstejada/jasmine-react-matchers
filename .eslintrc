@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "__DEV__": true
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  },
+  "rules": {
+    "react/prop-types": [2, {ignore: ["children"]}],
+    "eqeqeq": [2, "smart"],
+    "func-names": [0],
+    "no-var": [0]
+  }
+}
